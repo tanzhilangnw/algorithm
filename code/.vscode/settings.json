@@ -18,10 +18,33 @@
         "z-index":"99999",
         "background.repeat":"no-repeat",
         "background-size":"100%,100%",  // 图片大小
-        "opacity":0.3  // 透明度
+        "opacity":1  // 透明度
     },
     "background.useFront": true,
     "background.useDefault": false,
-    "workbench.iconTheme": "vscode-icons", // 是否使用默认图片
+    "workbench.iconTheme": "vscode-icons",
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "shared_mutex": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "atomic": "cpp",
+        "chrono": "cpp",
+        "iomanip": "cpp",
+        "list": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "xlocbuf": "cpp",
+        "regex": "cpp",
+        "algorithm": "cpp",
+        "xhash": "cpp",
+        "xutility": "cpp"
+    }, // 是否使用默认图片
     
 }
